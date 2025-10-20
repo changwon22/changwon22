@@ -1,16 +1,36 @@
-## About me
+# 👋 Hi, I'm Changwon Lee
 
-<!--
-**changwon22/changwon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Graduate Student** in **Industrial & Systems Engineering** at the **University of Wisconsin–Madison**, advised by [Professor Jeff Linderoth](https://directory.engr.wisc.edu/ie/faculty/linderoth_jeffrey).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Research Interests
+
+I'm broadly interested in the **intersection between Optimization and Machine Learning**, focusing on how mathematical optimization can enhance learning algorithms and model interpretability.
+
+---
+
+## 🔬 Current Work
+
+I'm currently working on a project that explores the **Maximizing Sparsity Problem in Neural Networks** using a **Mixed-Integer Programming (MIP)** framework.  
+This work aims to bridge **continuous optimization techniques** with **discrete decision modeling** to achieve efficient and explainable neural architectures.
+
+---
+
+## 💻 Skills & Tools
+
+- **Optimization:** MIP, LP, MILP, Branch-and-Bound, Duality  
+- **Machine Learning:** Neural Networks, Sparse Models, Kernel Methods  
+- **Programming:** Python, Julia (JuMP), C/C++, LaTeX  
+- **Solvers:** SCIP, Gurobi, CPLEX  
+
+---
+
+## 📫 Connect
+
+- 📧 Email: *[your email address]*  
+- 🌐 [LinkedIn](#) | [Google Scholar](#) | [Personal Website](#)
+
+---
+
+⭐️ *"Optimization is not just about efficiency — it's about understanding structure."*
