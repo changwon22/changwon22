@@ -13,7 +13,7 @@ I'm broadly interested in the **intersection between Optimization and Machine Le
 ## 🔬 Current Work
 
 I'm currently working on a project that explores the **Maximizing Sparsity Problem in Neural Networks** using a **Mixed-Integer Programming (MIP)** framework.  
-This work aims to bridge **continuous optimization techniques** with **discrete decision modeling** to achieve efficient and explainable neural architectures.
+This work aims to bridge **discrete optimization techniques** with **discrete/continuous decision modeling** to achieve efficient and explainable neural architectures.
 
 ---
 
@@ -21,16 +21,16 @@ This work aims to bridge **continuous optimization techniques** with **discrete 
 
 - **Optimization:** MIP, LP, MILP, Branch-and-Bound, Duality  
 - **Machine Learning:** Neural Networks, Sparse Models, Kernel Methods  
-- **Programming:** Python, Julia (JuMP), C/C++, LaTeX  
-- **Solvers:** SCIP, Gurobi, CPLEX  
+- **Programming:** Python, Julia (JuMP), LaTeX  
+- **Solvers:** Gurobi, SCIP(Learning)
 
 ---
 
 ## 📫 Connect
 
-- 📧 Email: *[your email address]*  
-- 🌐 [LinkedIn](#) | [Google Scholar](#) | [Personal Website](#)
+- 📧 Email: *[changwon.lee@wisc.edu]*  
+- 🌐 [LinkedIn](#) | [Personal Website](#)
 
 ---
 
-⭐️ *"Optimization is not just about efficiency — it's about understanding structure."*
+⭐️ *"."*
