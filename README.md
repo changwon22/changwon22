@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Changwon Lee
 
-🎓 I'm a **Graduate Student** in **Industrial & Systems Engineering** at the **University of Wisconsin–Madison**, advised by [Professor Jeff Linderoth](https://directory.engr.wisc.edu/ie/faculty/linderoth_jeffrey).
+🎓 I'm a **MS-Research Student** in **Industrial & Systems Engineering** at the **University of Wisconsin–Madison**, advised by [Professor Jeff Linderoth](https://jlinderoth.github.io/).
 
 ---
 
